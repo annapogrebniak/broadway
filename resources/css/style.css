@@ -1,3 +1,18 @@
 body {
   text-align: center;
+  font-family: Helvetica;
+}
+.up {
+  color: white;
+  background-image: url(/Users/Anna/Desktop/projectsCODECADEMY/broadway/resources/images/the-flatiron-building.png);
+}
+.up h1 {
+  font-size: 70px;
+  font-weight: bold;
+}
+.up p {
+  font-size: 18px;
+}
+a {
+  color: white;
 }
