@@ -4,7 +4,7 @@ body {
 }
 .up {
   color: white;
-  background-image: url(/Users/Anna/Desktop/projectsCODECADEMY/broadway/resources/images/the-flatiron-building.png);
+  background-image: url(../images/the-flatiron-building.png);
 }
 .up h1 {
   font-size: 70px;
@@ -14,5 +14,27 @@ body {
   font-size: 18px;
 }
 a {
+  color: white;
+}
+.designed {
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+  background-image: url(../images/the-flatiron-building.png);
+}
+.main h1 {
+  font-size: 32px;
+  font-weight: bold;
+}
+.main h2 {
+  font-size: 23px;
+  font-weight: bold;
+}
+.main p {
+  font-size: 14px;
+}
+.footer {
+  font-size: 11px;
+  background-color: dimgray;
   color: white;
 }
